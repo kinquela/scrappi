@@ -1,0 +1,3982 @@
+[
+  {
+    "name": "Mercados",
+    "description": "Mercados",
+    "store_type": "market",
+    "image": "market_rappi5.png",
+    "scheduled": true,
+    "index": -1000,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+
+    ],
+    "db": {
+
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_categories",
+    "suboptions": [
+      {
+        "name": "Disco Supermercado",
+        "description": "Disco Supermercado",
+        "store_type": "disco",
+        "image": "disco-1552570853.png",
+        "scheduled": true,
+        "index": 1,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "279",
+            "zone_id": "152503",
+            "layout_store_id": "279",
+            "store_type": "disco",
+            "size": 1,
+            "lat": -34.586114268307,
+            "lng": -58.422713026367,
+            "store_zone_id": "279_152503"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "disco",
+          "url": "databases/2/279/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "Market2.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Super",
+        "widget_description": "Tus compras de la semana, a la hora que quieras!",
+        "order_index": 1
+      },
+      {
+        "name": "Vea",
+        "description": "Vea",
+        "store_type": "vea",
+        "image": "vea-1552570925.png",
+        "scheduled": true,
+        "index": 2,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112223",
+            "zone_id": "128141",
+            "layout_store_id": "112223",
+            "store_type": "vea",
+            "size": 1,
+            "lat": -34.59086583868,
+            "lng": -58.4149981021,
+            "store_zone_id": "112223_128141"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "vea",
+          "url": "databases/2/112223/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "Market2.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Super",
+        "widget_description": "Tus compras express del súper en minutos.",
+        "order_index": 2
+      },
+      {
+        "name": "Jumbo",
+        "description": "Jumbo",
+        "store_type": "jumbo",
+        "image": "jumbo-1552570894.png",
+        "scheduled": true,
+        "index": 3,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112241",
+            "zone_id": "90276",
+            "layout_store_id": "112241",
+            "store_type": "jumbo",
+            "size": 1,
+            "lat": -34.5745885,
+            "lng": -58.4263766,
+            "store_zone_id": "112241_90276"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "jumbo",
+          "url": "databases/2/112241/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "Market2.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Super",
+        "widget_description": "Los mejores productos, siempre",
+        "order_index": 3
+      },
+      {
+        "name": "Open 25",
+        "description": "Open 25",
+        "store_type": "open25_market",
+        "image": "open25_market-1544044714.png",
+        "scheduled": false,
+        "index": 104,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "113600",
+            "zone_id": "162049",
+            "layout_store_id": "113578",
+            "store_type": "open25_market",
+            "size": 1,
+            "lat": -34.5708415,
+            "lng": -58.4429572,
+            "store_zone_id": "113600_162049"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "open25_market",
+          "url": "databases/mixed/113600/113600-0-null.db.7Z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "open25_market-1547155927.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Express",
+        "widget_description": "",
+        "order_index": 104
+      },
+      {
+        "name": "Mandale Fruta",
+        "description": "Mandale Fruta",
+        "store_type": "mandale_fruta",
+        "image": "logo_mandalefruta.png",
+        "scheduled": true,
+        "index": 105,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112056",
+            "zone_id": "161971",
+            "layout_store_id": "112054",
+            "store_type": "mandale_fruta",
+            "size": 3,
+            "lat": -34.558004,
+            "lng": -58.461791,
+            "store_zone_id": "112056_161971"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "mandale_fruta",
+          "url": "databases/2/112056/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "mandale_fruta-1547071641.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Express",
+        "widget_description": "Frutas y verduras frescas en tu casa en minutos",
+        "order_index": 105
+      },
+      {
+        "name": "Jevi",
+        "description": "Jevi",
+        "store_type": "especial_jevi",
+        "image": "especial_jevi-1549896632.png",
+        "scheduled": false,
+        "index": 106,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "111137",
+            "zone_id": "152163",
+            "layout_store_id": "319",
+            "store_type": "especial_jevi",
+            "size": 1,
+            "lat": -34.5778694,
+            "lng": -58.4296889,
+            "store_zone_id": "111137_152163"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "especial_jevi",
+          "url": "databases/2/111137/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "Express1.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Express",
+        "widget_description": "",
+        "order_index": 106
+      },
+      {
+        "name": "Farmacity",
+        "description": "Farmacity",
+        "store_type": "farmacity_market",
+        "image": "farmacity_market-1539807141.png",
+        "scheduled": false,
+        "index": 109,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112837",
+            "zone_id": "88944",
+            "layout_store_id": "112791",
+            "store_type": "farmacity_market",
+            "size": 3,
+            "lat": -34.569929,
+            "lng": -58.445589,
+            "store_zone_id": "112837_88944"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "farmacity_market",
+          "url": "databases/2/112837/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "farmacity_market-1547131302.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Farmacia",
+        "widget_description": "",
+        "order_index": 109
+      },
+      {
+        "name": "Oslo Bebidas",
+        "description": "Oslo Bebidas",
+        "store_type": "oslo",
+        "image": "oslo-1540313209.png",
+        "scheduled": false,
+        "index": 122,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112925",
+            "zone_id": "89008",
+            "layout_store_id": "112925",
+            "store_type": "oslo",
+            "size": 3,
+            "lat": -34.5728167,
+            "lng": -58.4323433,
+            "store_zone_id": "112925_89008"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "oslo",
+          "url": "databases/2/112925/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "oslo-1540313209.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#000000",
+        "group": "CPGs",
+        "sub_group": "Licores",
+        "widget_description": "Todas las Bebidas para disfrutar con amigos",
+        "order_index": 122
+      },
+      {
+        "name": "Aldos",
+        "description": "Aldos",
+        "store_type": "especial_aldos",
+        "image": "especial_aldos-1540577125.png",
+        "scheduled": false,
+        "index": 125,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112993",
+            "zone_id": "105235",
+            "layout_store_id": "112988",
+            "store_type": "especial_aldos",
+            "size": 1,
+            "lat": -34.580474,
+            "lng": -58.413313,
+            "store_zone_id": "112993_105235"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "especial_aldos",
+          "url": "databases/2/112993/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "especial_aldos-1541623980.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": null,
+        "group": "CPGs",
+        "sub_group": "Licores",
+        "widget_description": "",
+        "order_index": 125
+      },
+      {
+        "name": "Super Pampero",
+        "description": "Super Pampero",
+        "store_type": "superpampero",
+        "image": "superpampero-1539122790.png",
+        "scheduled": false,
+        "index": 132,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112771",
+            "zone_id": "128099",
+            "layout_store_id": "112771",
+            "store_type": "superpampero",
+            "size": 1,
+            "lat": -34.596626089217,
+            "lng": -58.416735639287,
+            "store_zone_id": "112771_128099"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "superpampero",
+          "url": "databases/2/112771/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "superpampero-1539366246.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Super",
+        "widget_description": "Cadena argentina de supermercados y kioscos.",
+        "order_index": 132
+      },
+      {
+        "name": "Vuelta al Cole",
+        "description": "Vuelta al Cole",
+        "store_type": "staples_market",
+        "image": "staples_market-1552077731.png",
+        "scheduled": true,
+        "index": 199,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "114707",
+            "zone_id": "157581",
+            "layout_store_id": "200008",
+            "store_type": "staples_market",
+            "size": 1,
+            "lat": -34.576837,
+            "lng": -58.448657,
+            "store_zone_id": "114707_157581"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "staples_market",
+          "url": "databases/2/114707/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "staples_market-1552939508.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#e40000",
+        "group": "CPGs",
+        "sub_group": "CPGs",
+        "widget_description": "",
+        "order_index": 199
+      },
+      {
+        "name": "Res",
+        "description": "Res",
+        "store_type": "res",
+        "image": "res_marketplace.png",
+        "scheduled": true,
+        "index": 203,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "111367",
+            "zone_id": "162019",
+            "layout_store_id": "111367",
+            "store_type": "res",
+            "size": 2,
+            "lat": -34.5653696,
+            "lng": -58.4550967,
+            "store_zone_id": "111367_162019"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "res",
+          "url": "databases/2/111367/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "header_res.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ff3030",
+        "group": "CPGs",
+        "sub_group": "Express",
+        "widget_description": "La carnicería de tu barrio en la puerta de tu casa",
+        "order_index": 203
+      },
+      {
+        "name": "Puppis",
+        "description": "Puppis",
+        "store_type": "puppis_market",
+        "image": "market_place_puppis.png",
+        "scheduled": true,
+        "index": 204,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112999",
+            "zone_id": "90295",
+            "layout_store_id": "112998",
+            "store_type": "puppis_market",
+            "size": 1,
+            "lat": -34.5726644,
+            "lng": -58.4589632,
+            "store_zone_id": "112999_90295"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "puppis_market",
+          "url": "databases/2/112999/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "header_puppis.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": null,
+        "group": "CPGs",
+        "sub_group": "Super",
+        "widget_description": "",
+        "order_index": 204
+      },
+      {
+        "name": "Popus Pochoclos",
+        "description": "Popus Pochoclos",
+        "store_type": "popus",
+        "image": "popus-1551190180.png",
+        "scheduled": false,
+        "index": 218,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "114250",
+            "zone_id": "154097",
+            "layout_store_id": "114250",
+            "store_type": "popus",
+            "size": 1,
+            "lat": -34.586626,
+            "lng": -58.413266,
+            "store_zone_id": "114250_154097"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "popus",
+          "url": "databases/2/114250/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "popus-1553609743.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#fad4bf",
+        "group": "CPGs",
+        "sub_group": "Express",
+        "widget_description": "Llevá el cine a tu casa! Pochoclos premium",
+        "order_index": 218
+      }
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": null,
+    "pinned_index": null,
+    "background_color": "#bde26d",
+    "group": "CPGs",
+    "sub_group": "Super",
+    "widget_description": "Mismos precios, mismas promos, desde donde estés",
+    "order_index": -1000
+  },
+  {
+    "name": "Lo que sea",
+    "description": "Lo que sea",
+    "store_type": "whim",
+    "image": "whim-1546984311.png",
+    "scheduled": false,
+    "index": 1,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+      {
+        "store_id": "112108",
+        "zone_id": "158626",
+        "layout_store_id": "112108",
+        "store_type": "whim",
+        "size": 1,
+        "lat": -34.589697,
+        "lng": -58.43979,
+        "store_zone_id": "112108_158626"
+      }
+    ],
+    "db": {
+      "download_type": "sqlite",
+      "store_type": "whim",
+      "url": "databases/2/112108/0-2.7z"
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_categories",
+    "suboptions": [
+
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": null,
+    "pinned_index": 1,
+    "background_color": "#b6c5f7",
+    "group": "Antojos",
+    "sub_group": "Antojos",
+    "widget_description": "Si existe, te lo llevamos",
+    "order_index": 1
+  },
+  {
+    "name": "Restaurantes",
+    "description": "Restaurantes",
+    "store_type": "restaurant",
+    "image": "restaurant_final_r5.png",
+    "scheduled": false,
+    "index": 2,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+      {
+        "store_id": "7",
+        "zone_id": "134997",
+        "layout_store_id": "7",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.591018,
+        "lng": -58.427683,
+        "store_zone_id": "7_134997"
+      },
+      {
+        "store_id": "6",
+        "zone_id": "140063",
+        "layout_store_id": "6",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.591158,
+        "lng": -58.428252,
+        "store_zone_id": "6_140063"
+      },
+      {
+        "store_id": "24",
+        "zone_id": "138791",
+        "layout_store_id": "24",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.591948,
+        "lng": -58.417946,
+        "store_zone_id": "24_138791"
+      },
+      {
+        "store_id": "26",
+        "zone_id": "139757",
+        "layout_store_id": "26",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.579777,
+        "lng": -58.409431,
+        "store_zone_id": "26_139757"
+      },
+      {
+        "store_id": "111159",
+        "zone_id": "155353",
+        "layout_store_id": "29",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.572243,
+        "lng": -58.459107,
+        "store_zone_id": "111159_155353"
+      },
+      {
+        "store_id": "32",
+        "zone_id": "138964",
+        "layout_store_id": "32",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.585969,
+        "lng": -58.425717,
+        "store_zone_id": "32_138964"
+      },
+      {
+        "store_id": "33",
+        "zone_id": "139001",
+        "layout_store_id": "33",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.581116,
+        "lng": -58.434557,
+        "store_zone_id": "33_139001"
+      },
+      {
+        "store_id": "113623",
+        "zone_id": "149730",
+        "layout_store_id": "113622",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.579273,
+        "lng": -58.440554,
+        "store_zone_id": "113623_149730"
+      },
+      {
+        "store_id": "48",
+        "zone_id": "139981",
+        "layout_store_id": "48",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583308,
+        "lng": -58.438655,
+        "store_zone_id": "48_139981"
+      },
+      {
+        "store_id": "49",
+        "zone_id": "139989",
+        "layout_store_id": "49",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583362,
+        "lng": -58.43939,
+        "store_zone_id": "49_139989"
+      },
+      {
+        "store_id": "50",
+        "zone_id": "140006",
+        "layout_store_id": "50",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.577417,
+        "lng": -58.430366,
+        "store_zone_id": "50_140006"
+      },
+      {
+        "store_id": "53",
+        "zone_id": "140024",
+        "layout_store_id": "53",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.591175,
+        "lng": -58.423924,
+        "store_zone_id": "53_140024"
+      },
+      {
+        "store_id": "57",
+        "zone_id": "140053",
+        "layout_store_id": "56",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.580881020858,
+        "lng": -58.432376093254,
+        "store_zone_id": "57_140053"
+      },
+      {
+        "store_id": "69",
+        "zone_id": "140087",
+        "layout_store_id": "69",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.588188,
+        "lng": -58.427297,
+        "store_zone_id": "69_140087"
+      },
+      {
+        "store_id": "70",
+        "zone_id": "140094",
+        "layout_store_id": "70",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.586798,
+        "lng": -58.429131,
+        "store_zone_id": "70_140094"
+      },
+      {
+        "store_id": "114253",
+        "zone_id": "154218",
+        "layout_store_id": "114252",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.580799,
+        "lng": -58.43694,
+        "store_zone_id": "114253_154218"
+      },
+      {
+        "store_id": "75",
+        "zone_id": "140142",
+        "layout_store_id": "75",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.557406,
+        "lng": -58.449133,
+        "store_zone_id": "75_140142"
+      },
+      {
+        "store_id": "115317",
+        "zone_id": "160655",
+        "layout_store_id": "113270",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.571267,
+        "lng": -58.43237,
+        "store_zone_id": "115317_160655"
+      },
+      {
+        "store_id": "10",
+        "zone_id": "134977",
+        "layout_store_id": "10",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.590101,
+        "lng": -58.430793,
+        "store_zone_id": "10_134977"
+      },
+      {
+        "store_id": "91",
+        "zone_id": "144257",
+        "layout_store_id": "91",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.581076,
+        "lng": -58.428595,
+        "store_zone_id": "91_144257"
+      },
+      {
+        "store_id": "98",
+        "zone_id": "155313",
+        "layout_store_id": "98",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.590873,
+        "lng": -58.427014,
+        "store_zone_id": "98_155313"
+      },
+      {
+        "store_id": "133",
+        "zone_id": "144169",
+        "layout_store_id": "133",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.581074,
+        "lng": -58.428366,
+        "store_zone_id": "133_144169"
+      },
+      {
+        "store_id": "111067",
+        "zone_id": "135869",
+        "layout_store_id": "111068",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.566894512889,
+        "lng": -58.438251775463,
+        "store_zone_id": "111067_135869"
+      },
+      {
+        "store_id": "113210",
+        "zone_id": "141031",
+        "layout_store_id": "113210",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.579815,
+        "lng": -58.411618,
+        "store_zone_id": "113210_141031"
+      },
+      {
+        "store_id": "142",
+        "zone_id": "144210",
+        "layout_store_id": "142",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.58819,
+        "lng": -58.427215,
+        "store_zone_id": "142_144210"
+      },
+      {
+        "store_id": "145",
+        "zone_id": "146652",
+        "layout_store_id": "145",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.579695,
+        "lng": -58.414303,
+        "store_zone_id": "145_146652"
+      },
+      {
+        "store_id": "153",
+        "zone_id": "146764",
+        "layout_store_id": "153",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.597505,
+        "lng": -58.424588,
+        "store_zone_id": "153_146764"
+      },
+      {
+        "store_id": "114263",
+        "zone_id": "154358",
+        "layout_store_id": "113521",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.558747,
+        "lng": -58.45792,
+        "store_zone_id": "114263_154358"
+      },
+      {
+        "store_id": "160",
+        "zone_id": "137293",
+        "layout_store_id": "160",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.59734,
+        "lng": -58.424293,
+        "store_zone_id": "160_137293"
+      },
+      {
+        "store_id": "161",
+        "zone_id": "146852",
+        "layout_store_id": "161",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.597429,
+        "lng": -58.424658,
+        "store_zone_id": "161_146852"
+      },
+      {
+        "store_id": "162",
+        "zone_id": "146900",
+        "layout_store_id": "162",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.597429,
+        "lng": -58.424658,
+        "store_zone_id": "162_146900"
+      },
+      {
+        "store_id": "163",
+        "zone_id": "146948",
+        "layout_store_id": "163",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.597429,
+        "lng": -58.424658,
+        "store_zone_id": "163_146948"
+      },
+      {
+        "store_id": "164",
+        "zone_id": "149395",
+        "layout_store_id": "164",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.585119,
+        "lng": -58.43574,
+        "store_zone_id": "164_149395"
+      },
+      {
+        "store_id": "171",
+        "zone_id": "161659",
+        "layout_store_id": "171",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.575419,
+        "lng": -58.450758,
+        "store_zone_id": "171_161659"
+      },
+      {
+        "store_id": "175",
+        "zone_id": "137861",
+        "layout_store_id": "175",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.587811,
+        "lng": -58.430244,
+        "store_zone_id": "175_137861"
+      },
+      {
+        "store_id": "112489",
+        "zone_id": "145064",
+        "layout_store_id": "178",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.578196,
+        "lng": -58.438148,
+        "store_zone_id": "112489_145064"
+      },
+      {
+        "store_id": "188",
+        "zone_id": "130403",
+        "layout_store_id": "188",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.591455,
+        "lng": -58.43061,
+        "store_zone_id": "188_130403"
+      },
+      {
+        "store_id": "189",
+        "zone_id": "162600",
+        "layout_store_id": "189",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.589571,
+        "lng": -58.429583,
+        "store_zone_id": "189_162600"
+      },
+      {
+        "store_id": "192",
+        "zone_id": "130540",
+        "layout_store_id": "192",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.585311,
+        "lng": -58.428765,
+        "store_zone_id": "192_130540"
+      },
+      {
+        "store_id": "196",
+        "zone_id": "147259",
+        "layout_store_id": "196",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.592497600217,
+        "lng": -58.43812419574,
+        "store_zone_id": "196_147259"
+      },
+      {
+        "store_id": "198",
+        "zone_id": "130746",
+        "layout_store_id": "198",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.569204,
+        "lng": -58.436355,
+        "store_zone_id": "198_130746"
+      },
+      {
+        "store_id": "207",
+        "zone_id": "131009",
+        "layout_store_id": "207",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.582343,
+        "lng": -58.432409,
+        "store_zone_id": "207_131009"
+      },
+      {
+        "store_id": "209",
+        "zone_id": "147476",
+        "layout_store_id": "209",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.581939,
+        "lng": -58.412639,
+        "store_zone_id": "209_147476"
+      },
+      {
+        "store_id": "217",
+        "zone_id": "147786",
+        "layout_store_id": "217",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.567743,
+        "lng": -58.436642,
+        "store_zone_id": "217_147786"
+      },
+      {
+        "store_id": "243",
+        "zone_id": "148042",
+        "layout_store_id": "243",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.565243,
+        "lng": -58.434571,
+        "store_zone_id": "243_148042"
+      },
+      {
+        "store_id": "251",
+        "zone_id": "148114",
+        "layout_store_id": "251",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.590243,
+        "lng": -58.427899,
+        "store_zone_id": "251_148114"
+      },
+      {
+        "store_id": "111122",
+        "zone_id": "135387",
+        "layout_store_id": "111122",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.567802,
+        "lng": -58.437507,
+        "store_zone_id": "111122_135387"
+      },
+      {
+        "store_id": "256",
+        "zone_id": "148348",
+        "layout_store_id": "256",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.55938079798,
+        "lng": -58.447174910035,
+        "store_zone_id": "256_148348"
+      },
+      {
+        "store_id": "259",
+        "zone_id": "148501",
+        "layout_store_id": "259",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.59538,
+        "lng": -58.415437,
+        "store_zone_id": "259_148501"
+      },
+      {
+        "store_id": "268",
+        "zone_id": "148791",
+        "layout_store_id": "268",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.57747,
+        "lng": -58.43874,
+        "store_zone_id": "268_148791"
+      },
+      {
+        "store_id": "272",
+        "zone_id": "148960",
+        "layout_store_id": "269",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.582435,
+        "lng": -58.434669,
+        "store_zone_id": "272_148960"
+      },
+      {
+        "store_id": "276",
+        "zone_id": "140832",
+        "layout_store_id": "276",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.572500876993,
+        "lng": -58.430550542328,
+        "store_zone_id": "276_140832"
+      },
+      {
+        "store_id": "278",
+        "zone_id": "140964",
+        "layout_store_id": "277",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.56797,
+        "lng": -58.435656,
+        "store_zone_id": "278_140964"
+      },
+      {
+        "store_id": "112735",
+        "zone_id": "145346",
+        "layout_store_id": "112735",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.574142944153,
+        "lng": -58.459903830977,
+        "store_zone_id": "112735_145346"
+      },
+      {
+        "store_id": "316",
+        "zone_id": "139706",
+        "layout_store_id": "316",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.589042,
+        "lng": -58.431844,
+        "store_zone_id": "316_139706"
+      },
+      {
+        "store_id": "111200",
+        "zone_id": "141820",
+        "layout_store_id": "111200",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.569067,
+        "lng": -58.446489,
+        "store_zone_id": "111200_141820"
+      },
+      {
+        "store_id": "344",
+        "zone_id": "131894",
+        "layout_store_id": "344",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.586699,
+        "lng": -58.432584,
+        "store_zone_id": "344_131894"
+      },
+      {
+        "store_id": "357",
+        "zone_id": "162510",
+        "layout_store_id": "350",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.572397,
+        "lng": -58.430669,
+        "store_zone_id": "357_162510"
+      },
+      {
+        "store_id": "366",
+        "zone_id": "142883",
+        "layout_store_id": "363",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.587896,
+        "lng": -58.431003,
+        "store_zone_id": "366_142883"
+      },
+      {
+        "store_id": "369",
+        "zone_id": "132461",
+        "layout_store_id": "369",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.582844,
+        "lng": -58.447203,
+        "store_zone_id": "369_132461"
+      },
+      {
+        "store_id": "111048",
+        "zone_id": "144482",
+        "layout_store_id": "111048",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.586658669154,
+        "lng": -58.450524457673,
+        "store_zone_id": "111048_144482"
+      },
+      {
+        "store_id": "111053",
+        "zone_id": "130729",
+        "layout_store_id": "111053",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.572662,
+        "lng": -58.430164,
+        "store_zone_id": "111053_130729"
+      },
+      {
+        "store_id": "112537",
+        "zone_id": "143817",
+        "layout_store_id": "364",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.591052,
+        "lng": -58.428787,
+        "store_zone_id": "112537_143817"
+      },
+      {
+        "store_id": "111080",
+        "zone_id": "145458",
+        "layout_store_id": "111080",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.589947,
+        "lng": -58.426448,
+        "store_zone_id": "111080_145458"
+      },
+      {
+        "store_id": "111444",
+        "zone_id": "151196",
+        "layout_store_id": "111082",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.580385,
+        "lng": -58.450685,
+        "store_zone_id": "111444_151196"
+      },
+      {
+        "store_id": "234",
+        "zone_id": "136266",
+        "layout_store_id": "234",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.58737,
+        "lng": -58.42986,
+        "store_zone_id": "234_136266"
+      },
+      {
+        "store_id": "111094",
+        "zone_id": "146018",
+        "layout_store_id": "111094",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.565334,
+        "lng": -58.436213,
+        "store_zone_id": "111094_146018"
+      },
+      {
+        "store_id": "111095",
+        "zone_id": "146072",
+        "layout_store_id": "111095",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583326,
+        "lng": -58.439096,
+        "store_zone_id": "111095_146072"
+      },
+      {
+        "store_id": "111107",
+        "zone_id": "146424",
+        "layout_store_id": "111107",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583205,
+        "lng": -58.433401,
+        "store_zone_id": "111107_146424"
+      },
+      {
+        "store_id": "111120",
+        "zone_id": "135321",
+        "layout_store_id": "111120",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.590402,
+        "lng": -58.427373,
+        "store_zone_id": "111120_135321"
+      },
+      {
+        "store_id": "111478",
+        "zone_id": "143964",
+        "layout_store_id": "111478",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.595683689235,
+        "lng": -58.43271899469,
+        "store_zone_id": "111478_143964"
+      },
+      {
+        "store_id": "111175",
+        "zone_id": "136151",
+        "layout_store_id": "111175",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.5586,
+        "lng": -58.460996,
+        "store_zone_id": "111175_136151"
+      },
+      {
+        "store_id": "111181",
+        "zone_id": "141013",
+        "layout_store_id": "111181",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.595612666453,
+        "lng": -58.432464671936,
+        "store_zone_id": "111181_141013"
+      },
+      {
+        "store_id": "111187",
+        "zone_id": "141318",
+        "layout_store_id": "111187",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.571096,
+        "lng": -58.422258,
+        "store_zone_id": "111187_141318"
+      },
+      {
+        "store_id": "111196",
+        "zone_id": "129314",
+        "layout_store_id": "111196",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.594164,
+        "lng": -58.424199,
+        "store_zone_id": "111196_129314"
+      },
+      {
+        "store_id": "111086",
+        "zone_id": "145697",
+        "layout_store_id": "111086",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.586663,
+        "lng": -58.428933,
+        "store_zone_id": "111086_145697"
+      },
+      {
+        "store_id": "111208",
+        "zone_id": "156303",
+        "layout_store_id": "111208",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.557663,
+        "lng": -58.449154,
+        "store_zone_id": "111208_156303"
+      },
+      {
+        "store_id": "111070",
+        "zone_id": "136040",
+        "layout_store_id": "111070",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.599136,
+        "lng": -58.423488,
+        "store_zone_id": "111070_136040"
+      },
+      {
+        "store_id": "111217",
+        "zone_id": "143053",
+        "layout_store_id": "111217",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.581093,
+        "lng": -58.428385,
+        "store_zone_id": "111217_143053"
+      },
+      {
+        "store_id": "111218",
+        "zone_id": "143119",
+        "layout_store_id": "111218",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.581077,
+        "lng": -58.428386,
+        "store_zone_id": "111218_143119"
+      },
+      {
+        "store_id": "111265",
+        "zone_id": "130094",
+        "layout_store_id": "111219",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.561342,
+        "lng": -58.464593,
+        "store_zone_id": "111265_130094"
+      },
+      {
+        "store_id": "111770",
+        "zone_id": "154501",
+        "layout_store_id": "111220",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.562685,
+        "lng": -58.450771,
+        "store_zone_id": "111770_154501"
+      },
+      {
+        "store_id": "111228",
+        "zone_id": "152987",
+        "layout_store_id": "111228",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.58199,
+        "lng": -58.412498,
+        "store_zone_id": "111228_152987"
+      },
+      {
+        "store_id": "111233",
+        "zone_id": "143439",
+        "layout_store_id": "111233",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.586266,
+        "lng": -58.427469,
+        "store_zone_id": "111233_143439"
+      },
+      {
+        "store_id": "111234",
+        "zone_id": "136607",
+        "layout_store_id": "111234",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.58226,
+        "lng": -58.434108,
+        "store_zone_id": "111234_136607"
+      },
+      {
+        "store_id": "111245",
+        "zone_id": "143587",
+        "layout_store_id": "111245",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.590742,
+        "lng": -58.426845,
+        "store_zone_id": "111245_143587"
+      },
+      {
+        "store_id": "111253",
+        "zone_id": "140288",
+        "layout_store_id": "111253",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583857,
+        "lng": -58.436147,
+        "store_zone_id": "111253_140288"
+      },
+      {
+        "store_id": "113753",
+        "zone_id": "158466",
+        "layout_store_id": "113753",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.599326,
+        "lng": -58.434263,
+        "store_zone_id": "113753_158466"
+      },
+      {
+        "store_id": "111260",
+        "zone_id": "129864",
+        "layout_store_id": "111260",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.581109,
+        "lng": -58.428175,
+        "store_zone_id": "111260_129864"
+      },
+      {
+        "store_id": "111262",
+        "zone_id": "129951",
+        "layout_store_id": "111262",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.587424,
+        "lng": -58.427794,
+        "store_zone_id": "111262_129951"
+      },
+      {
+        "store_id": "111277",
+        "zone_id": "145624",
+        "layout_store_id": "111277",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.582689,
+        "lng": -58.434854,
+        "store_zone_id": "111277_145624"
+      },
+      {
+        "store_id": "111282",
+        "zone_id": "130385",
+        "layout_store_id": "111282",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.590741087027,
+        "lng": -58.427008203705,
+        "store_zone_id": "111282_130385"
+      },
+      {
+        "store_id": "111372",
+        "zone_id": "138311",
+        "layout_store_id": "111372",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583404,
+        "lng": -58.433885,
+        "store_zone_id": "111372_138311"
+      },
+      {
+        "store_id": "111373",
+        "zone_id": "146793",
+        "layout_store_id": "111373",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.574745,
+        "lng": -58.453906,
+        "store_zone_id": "111373_146793"
+      },
+      {
+        "store_id": "111416",
+        "zone_id": "147772",
+        "layout_store_id": "111416",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.595833828919,
+        "lng": -58.432966757919,
+        "store_zone_id": "111416_147772"
+      },
+      {
+        "store_id": "111482",
+        "zone_id": "143988",
+        "layout_store_id": "111482",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.589159,
+        "lng": -58.415545,
+        "store_zone_id": "111482_143988"
+      },
+      {
+        "store_id": "111486",
+        "zone_id": "144021",
+        "layout_store_id": "111486",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.558468982348,
+        "lng": -58.466912839287,
+        "store_zone_id": "111486_144021"
+      },
+      {
+        "store_id": "111494",
+        "zone_id": "144043",
+        "layout_store_id": "111494",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.57496,
+        "lng": -58.423308,
+        "store_zone_id": "111494_144043"
+      },
+      {
+        "store_id": "111502",
+        "zone_id": "144091",
+        "layout_store_id": "111502",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.587807,
+        "lng": -58.419957,
+        "store_zone_id": "111502_144091"
+      },
+      {
+        "store_id": "111572",
+        "zone_id": "148139",
+        "layout_store_id": "111572",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.596677,
+        "lng": -58.443163,
+        "store_zone_id": "111572_148139"
+      },
+      {
+        "store_id": "111578",
+        "zone_id": "135620",
+        "layout_store_id": "111578",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.57831,
+        "lng": -58.434344,
+        "store_zone_id": "111578_135620"
+      },
+      {
+        "store_id": "114642",
+        "zone_id": "156846",
+        "layout_store_id": "114642",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.578356,
+        "lng": -58.46067,
+        "store_zone_id": "114642_156846"
+      },
+      {
+        "store_id": "111600",
+        "zone_id": "148370",
+        "layout_store_id": "111600",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.585712,
+        "lng": -58.427963,
+        "store_zone_id": "111600_148370"
+      },
+      {
+        "store_id": "111615",
+        "zone_id": "148839",
+        "layout_store_id": "111615",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.579912,
+        "lng": -58.439828,
+        "store_zone_id": "111615_148839"
+      },
+      {
+        "store_id": "111608",
+        "zone_id": "148653",
+        "layout_store_id": "111608",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.591459,
+        "lng": -58.412417,
+        "store_zone_id": "111608_148653"
+      },
+      {
+        "store_id": "111621",
+        "zone_id": "144437",
+        "layout_store_id": "111621",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.596589,
+        "lng": -58.416821,
+        "store_zone_id": "111621_144437"
+      },
+      {
+        "store_id": "111607",
+        "zone_id": "148612",
+        "layout_store_id": "111607",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.595233,
+        "lng": -58.421558,
+        "store_zone_id": "111607_148612"
+      },
+      {
+        "store_id": "111617",
+        "zone_id": "136313",
+        "layout_store_id": "111617",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.56945,
+        "lng": -58.47113,
+        "store_zone_id": "111617_136313"
+      },
+      {
+        "store_id": "111636",
+        "zone_id": "145042",
+        "layout_store_id": "111636",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.589234,
+        "lng": -58.427279,
+        "store_zone_id": "111636_145042"
+      },
+      {
+        "store_id": "111613",
+        "zone_id": "136113",
+        "layout_store_id": "111613",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.579242,
+        "lng": -58.412424,
+        "store_zone_id": "111613_136113"
+      },
+      {
+        "store_id": "111272",
+        "zone_id": "130271",
+        "layout_store_id": "111272",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.590936,
+        "lng": -58.427128,
+        "store_zone_id": "111272_130271"
+      },
+      {
+        "store_id": "111644",
+        "zone_id": "145258",
+        "layout_store_id": "111644",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.56758,
+        "lng": -58.4551,
+        "store_zone_id": "111644_145258"
+      },
+      {
+        "store_id": "111658",
+        "zone_id": "135486",
+        "layout_store_id": "111658",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.590133,
+        "lng": -58.426401,
+        "store_zone_id": "111658_135486"
+      },
+      {
+        "store_id": "111666",
+        "zone_id": "145672",
+        "layout_store_id": "111666",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.58359,
+        "lng": -58.433805,
+        "store_zone_id": "111666_145672"
+      },
+      {
+        "store_id": "111648",
+        "zone_id": "129030",
+        "layout_store_id": "111648",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.587524,
+        "lng": -58.424616,
+        "store_zone_id": "111648_129030"
+      },
+      {
+        "store_id": "113787",
+        "zone_id": "150498",
+        "layout_store_id": "113787",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.59376,
+        "lng": -58.446673,
+        "store_zone_id": "113787_150498"
+      },
+      {
+        "store_id": "113789",
+        "zone_id": "150518",
+        "layout_store_id": "113789",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.593994,
+        "lng": -58.446591,
+        "store_zone_id": "113789_150518"
+      },
+      {
+        "store_id": "281",
+        "zone_id": "141053",
+        "layout_store_id": "281",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.564795,
+        "lng": -58.452123,
+        "store_zone_id": "281_141053"
+      },
+      {
+        "store_id": "111712",
+        "zone_id": "141595",
+        "layout_store_id": "111763",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.587825,
+        "lng": -58.430695,
+        "store_zone_id": "111712_141595"
+      },
+      {
+        "store_id": "113791",
+        "zone_id": "150953",
+        "layout_store_id": "113791",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.594002,
+        "lng": -58.446598,
+        "store_zone_id": "113791_150953"
+      },
+      {
+        "store_id": "113788",
+        "zone_id": "150508",
+        "layout_store_id": "113788",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.593994,
+        "lng": -58.446591,
+        "store_zone_id": "113788_150508"
+      },
+      {
+        "store_id": "111719",
+        "zone_id": "141958",
+        "layout_store_id": "111741",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.557439,
+        "lng": -58.44868,
+        "store_zone_id": "111719_141958"
+      },
+      {
+        "store_id": "111721",
+        "zone_id": "142027",
+        "layout_store_id": "111741",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.568335,
+        "lng": -58.448173,
+        "store_zone_id": "111721_142027"
+      },
+      {
+        "store_id": "111711",
+        "zone_id": "141513",
+        "layout_store_id": "111711",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.582122,
+        "lng": -58.443522,
+        "store_zone_id": "111711_141513"
+      },
+      {
+        "store_id": "111744",
+        "zone_id": "142867",
+        "layout_store_id": "111744",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.573379,
+        "lng": -58.432197,
+        "store_zone_id": "111744_142867"
+      },
+      {
+        "store_id": "111762",
+        "zone_id": "146434",
+        "layout_store_id": "111762",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.587357,
+        "lng": -58.42779,
+        "store_zone_id": "111762_146434"
+      },
+      {
+        "store_id": "111780",
+        "zone_id": "147189",
+        "layout_store_id": "111780",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.583767,
+        "lng": -58.413905,
+        "store_zone_id": "111780_147189"
+      },
+      {
+        "store_id": "111769",
+        "zone_id": "146725",
+        "layout_store_id": "111769",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.593826,
+        "lng": -58.412696,
+        "store_zone_id": "111769_146725"
+      },
+      {
+        "store_id": "111821",
+        "zone_id": "147994",
+        "layout_store_id": "111809",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.567887,
+        "lng": -58.448637,
+        "store_zone_id": "111821_147994"
+      },
+      {
+        "store_id": "111812",
+        "zone_id": "128737",
+        "layout_store_id": "111812",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.591585,
+        "lng": -58.415572,
+        "store_zone_id": "111812_128737"
+      },
+      {
+        "store_id": "111798",
+        "zone_id": "147643",
+        "layout_store_id": "111798",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.56611,
+        "lng": -58.456202,
+        "store_zone_id": "111798_147643"
+      },
+      {
+        "store_id": "111830",
+        "zone_id": "148394",
+        "layout_store_id": "111830",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.592044,
+        "lng": -58.425345,
+        "store_zone_id": "111830_148394"
+      },
+      {
+        "store_id": "111846",
+        "zone_id": "148874",
+        "layout_store_id": "111846",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.571418,
+        "lng": -58.456996,
+        "store_zone_id": "111846_148874"
+      },
+      {
+        "store_id": "111813",
+        "zone_id": "128740",
+        "layout_store_id": "112017",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.584806,
+        "lng": -58.438856,
+        "store_zone_id": "111813_128740"
+      },
+      {
+        "store_id": "111760",
+        "zone_id": "143220",
+        "layout_store_id": "111760",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.587494,
+        "lng": -58.421789,
+        "store_zone_id": "111760_143220"
+      },
+      {
+        "store_id": "112028",
+        "zone_id": "146048",
+        "layout_store_id": "112028",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583273,
+        "lng": -58.433661,
+        "store_zone_id": "112028_146048"
+      },
+      {
+        "store_id": "111859",
+        "zone_id": "149020",
+        "layout_store_id": "111859",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.562696,
+        "lng": -58.452846,
+        "store_zone_id": "111859_149020"
+      },
+      {
+        "store_id": "111886",
+        "zone_id": "135440",
+        "layout_store_id": "111886",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.58317,
+        "lng": -58.435835,
+        "store_zone_id": "111886_135440"
+      },
+      {
+        "store_id": "111889",
+        "zone_id": "135611",
+        "layout_store_id": "111889",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.598584006997,
+        "lng": -58.416174696924,
+        "store_zone_id": "111889_135611"
+      },
+      {
+        "store_id": "111740",
+        "zone_id": "136675",
+        "layout_store_id": "111740",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.566835,
+        "lng": -58.431546,
+        "store_zone_id": "111740_136675"
+      },
+      {
+        "store_id": "111938",
+        "zone_id": "141842",
+        "layout_store_id": "111938",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.586624,
+        "lng": -58.433302,
+        "store_zone_id": "111938_141842"
+      },
+      {
+        "store_id": "111943",
+        "zone_id": "142255",
+        "layout_store_id": "111943",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.57511,
+        "lng": -58.472958,
+        "store_zone_id": "111943_142255"
+      },
+      {
+        "store_id": "111945",
+        "zone_id": "142429",
+        "layout_store_id": "111945",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.590966,
+        "lng": -58.425314,
+        "store_zone_id": "111945_142429"
+      },
+      {
+        "store_id": "111937",
+        "zone_id": "141783",
+        "layout_store_id": "111937",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.591475,
+        "lng": -58.413409,
+        "store_zone_id": "111937_141783"
+      },
+      {
+        "store_id": "111964",
+        "zone_id": "137201",
+        "layout_store_id": "111964",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.563235,
+        "lng": -58.440148,
+        "store_zone_id": "111964_137201"
+      },
+      {
+        "store_id": "111992",
+        "zone_id": "144796",
+        "layout_store_id": "111992",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.595584,
+        "lng": -58.418844,
+        "store_zone_id": "111992_144796"
+      },
+      {
+        "store_id": "112016",
+        "zone_id": "145554",
+        "layout_store_id": "112016",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.58526,
+        "lng": -58.428685,
+        "store_zone_id": "112016_145554"
+      },
+      {
+        "store_id": "112036",
+        "zone_id": "138056",
+        "layout_store_id": "112036",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.598673,
+        "lng": -58.441551,
+        "store_zone_id": "112036_138056"
+      },
+      {
+        "store_id": "112018",
+        "zone_id": "145692",
+        "layout_store_id": "112018",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.577320416853,
+        "lng": -58.466996186508,
+        "store_zone_id": "112018_145692"
+      },
+      {
+        "store_id": "112010",
+        "zone_id": "145266",
+        "layout_store_id": "112010",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.572116282118,
+        "lng": -58.430854116568,
+        "store_zone_id": "112010_145266"
+      },
+      {
+        "store_id": "112032",
+        "zone_id": "146260",
+        "layout_store_id": "112032",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.587405,
+        "lng": -58.418217,
+        "store_zone_id": "112032_146260"
+      },
+      {
+        "store_id": "114411",
+        "zone_id": "157083",
+        "layout_store_id": "114411",
+        "store_type": "restaurant",
+        "size": 8,
+        "lat": -34.586738,
+        "lng": -58.408257,
+        "store_zone_id": "114411_157083"
+      },
+      {
+        "store_id": "112136",
+        "zone_id": "147012",
+        "layout_store_id": "112136",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.587618,
+        "lng": -58.417718,
+        "store_zone_id": "112136_147012"
+      },
+      {
+        "store_id": "112250",
+        "zone_id": "135794",
+        "layout_store_id": "112250",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583621,
+        "lng": -58.444301,
+        "store_zone_id": "112250_135794"
+      },
+      {
+        "store_id": "112204",
+        "zone_id": "142311",
+        "layout_store_id": "112204",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.586125,
+        "lng": -58.414172,
+        "store_zone_id": "112204_142311"
+      },
+      {
+        "store_id": "112200",
+        "zone_id": "141970",
+        "layout_store_id": "112202",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.580357,
+        "lng": -58.431726,
+        "store_zone_id": "112200_141970"
+      },
+      {
+        "store_id": "113103",
+        "zone_id": "144908",
+        "layout_store_id": "113103",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.583302,
+        "lng": -58.419044,
+        "store_zone_id": "113103_144908"
+      },
+      {
+        "store_id": "112300",
+        "zone_id": "147244",
+        "layout_store_id": "113895",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.583694,
+        "lng": -58.418631,
+        "store_zone_id": "112300_147244"
+      },
+      {
+        "store_id": "112299",
+        "zone_id": "143375",
+        "layout_store_id": "112297",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.596574,
+        "lng": -58.44213,
+        "store_zone_id": "112299_143375"
+      },
+      {
+        "store_id": "112264",
+        "zone_id": "142476",
+        "layout_store_id": "112264",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.592403428336,
+        "lng": -58.442232486814,
+        "store_zone_id": "112264_142476"
+      },
+      {
+        "store_id": "111665",
+        "zone_id": "145620",
+        "layout_store_id": "111665",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.599136,
+        "lng": -58.441835,
+        "store_zone_id": "111665_145620"
+      },
+      {
+        "store_id": "112066",
+        "zone_id": "132423",
+        "layout_store_id": "112065",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.584255,
+        "lng": -58.436312,
+        "store_zone_id": "112066_132423"
+      },
+      {
+        "store_id": "112341",
+        "zone_id": "147707",
+        "layout_store_id": "112341",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.56526,
+        "lng": -58.450542,
+        "store_zone_id": "112341_147707"
+      },
+      {
+        "store_id": "112342",
+        "zone_id": "130773",
+        "layout_store_id": "112342",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.582845,
+        "lng": -58.437989,
+        "store_zone_id": "112342_130773"
+      },
+      {
+        "store_id": "112352",
+        "zone_id": "147891",
+        "layout_store_id": "112352",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.57462,
+        "lng": -58.420636,
+        "store_zone_id": "112352_147891"
+      },
+      {
+        "store_id": "112367",
+        "zone_id": "137223",
+        "layout_store_id": "112367",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.5887495882,
+        "lng": -58.430641405217,
+        "store_zone_id": "112367_137223"
+      },
+      {
+        "store_id": "112369",
+        "zone_id": "137368",
+        "layout_store_id": "112369",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.589194,
+        "lng": -58.429214,
+        "store_zone_id": "112369_137368"
+      },
+      {
+        "store_id": "112395",
+        "zone_id": "148594",
+        "layout_store_id": "112392",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.567405,
+        "lng": -58.434837,
+        "store_zone_id": "112395_148594"
+      },
+      {
+        "store_id": "112398",
+        "zone_id": "148715",
+        "layout_store_id": "112398",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.594346,
+        "lng": -58.429627,
+        "store_zone_id": "112398_148715"
+      },
+      {
+        "store_id": "114240",
+        "zone_id": "154096",
+        "layout_store_id": "112394",
+        "store_type": "restaurant",
+        "size": 8,
+        "lat": -34.583639,
+        "lng": -58.404385,
+        "store_zone_id": "114240_154096"
+      },
+      {
+        "store_id": "112410",
+        "zone_id": "139088",
+        "layout_store_id": "112410",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.569152,
+        "lng": -58.436544,
+        "store_zone_id": "112410_139088"
+      },
+      {
+        "store_id": "112418",
+        "zone_id": "148931",
+        "layout_store_id": "112416",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.597557,
+        "lng": -58.43525,
+        "store_zone_id": "112418_148931"
+      },
+      {
+        "store_id": "112431",
+        "zone_id": "144515",
+        "layout_store_id": "112429",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.597557,
+        "lng": -58.43525,
+        "store_zone_id": "112431_144515"
+      },
+      {
+        "store_id": "112440",
+        "zone_id": "144589",
+        "layout_store_id": "112440",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.580546,
+        "lng": -58.472602,
+        "store_zone_id": "112440_144589"
+      },
+      {
+        "store_id": "112486",
+        "zone_id": "144917",
+        "layout_store_id": "112486",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.597686,
+        "lng": -58.416906,
+        "store_zone_id": "112486_144917"
+      },
+      {
+        "store_id": "113356",
+        "zone_id": "147578",
+        "layout_store_id": "112453",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.565864,
+        "lng": -58.435149,
+        "store_zone_id": "113356_147578"
+      },
+      {
+        "store_id": "112524",
+        "zone_id": "137646",
+        "layout_store_id": "111047",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.570235,
+        "lng": -58.445189,
+        "store_zone_id": "112524_137646"
+      },
+      {
+        "store_id": "112525",
+        "zone_id": "137719",
+        "layout_store_id": "112525",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.560842,
+        "lng": -58.456945,
+        "store_zone_id": "112525_137719"
+      },
+      {
+        "store_id": "113013",
+        "zone_id": "132485",
+        "layout_store_id": "113013",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.566615669689,
+        "lng": -58.437353976686,
+        "store_zone_id": "113013_132485"
+      },
+      {
+        "store_id": "113976",
+        "zone_id": "152400",
+        "layout_store_id": "112527",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.569468,
+        "lng": -58.445567,
+        "store_zone_id": "113976_152400"
+      },
+      {
+        "store_id": "112703",
+        "zone_id": "131406",
+        "layout_store_id": "112703",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.598335695242,
+        "lng": -58.440767169023,
+        "store_zone_id": "112703_131406"
+      },
+      {
+        "store_id": "112749",
+        "zone_id": "145669",
+        "layout_store_id": "112749",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.586655796469,
+        "lng": -58.416290110739,
+        "store_zone_id": "112749_145669"
+      },
+      {
+        "store_id": "112752",
+        "zone_id": "132908",
+        "layout_store_id": "113893",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.570889932706,
+        "lng": -58.443633422702,
+        "store_zone_id": "112752_132908"
+      },
+      {
+        "store_id": "114254",
+        "zone_id": "154209",
+        "layout_store_id": "112527",
+        "store_type": "restaurant",
+        "size": 8,
+        "lat": -34.606122,
+        "lng": -58.421036,
+        "store_zone_id": "114254_154209"
+      },
+      {
+        "store_id": "112776",
+        "zone_id": "133122",
+        "layout_store_id": "112776",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.587283,
+        "lng": -58.42977,
+        "store_zone_id": "112776_133122"
+      },
+      {
+        "store_id": "112786",
+        "zone_id": "139378",
+        "layout_store_id": "112786",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.587111,
+        "lng": -58.418782,
+        "store_zone_id": "112786_139378"
+      },
+      {
+        "store_id": "112846",
+        "zone_id": "129543",
+        "layout_store_id": "112846",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.562462,
+        "lng": -58.453343,
+        "store_zone_id": "112846_129543"
+      },
+      {
+        "store_id": "112874",
+        "zone_id": "148015",
+        "layout_store_id": "112873",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.577814,
+        "lng": -58.438177,
+        "store_zone_id": "112874_148015"
+      },
+      {
+        "store_id": "112915",
+        "zone_id": "142366",
+        "layout_store_id": "112915",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.590536,
+        "lng": -58.418638,
+        "store_zone_id": "112915_142366"
+      },
+      {
+        "store_id": "112871",
+        "zone_id": "135361",
+        "layout_store_id": "112871",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.582308,
+        "lng": -58.452324,
+        "store_zone_id": "112871_135361"
+      },
+      {
+        "store_id": "112953",
+        "zone_id": "136903",
+        "layout_store_id": "112953",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.556174,
+        "lng": -58.464338,
+        "store_zone_id": "112953_136903"
+      },
+      {
+        "store_id": "112963",
+        "zone_id": "143225",
+        "layout_store_id": "112963",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.581871,
+        "lng": -58.441364,
+        "store_zone_id": "112963_143225"
+      },
+      {
+        "store_id": "112955",
+        "zone_id": "142734",
+        "layout_store_id": "112955",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.562462,
+        "lng": -58.453341,
+        "store_zone_id": "112955_142734"
+      },
+      {
+        "store_id": "113374",
+        "zone_id": "137985",
+        "layout_store_id": "113085",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.58367,
+        "lng": -58.438699,
+        "store_zone_id": "113374_137985"
+      },
+      {
+        "store_id": "113041",
+        "zone_id": "148321",
+        "layout_store_id": "113038",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.568292,
+        "lng": -58.447985,
+        "store_zone_id": "113041_148321"
+      },
+      {
+        "store_id": "113022",
+        "zone_id": "132852",
+        "layout_store_id": "113020",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.559443,
+        "lng": -58.466076,
+        "store_zone_id": "113022_132852"
+      },
+      {
+        "store_id": "113073",
+        "zone_id": "148867",
+        "layout_store_id": "112953",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.578313802502,
+        "lng": -58.461738017485,
+        "store_zone_id": "113073_148867"
+      },
+      {
+        "store_id": "113011",
+        "zone_id": "132395",
+        "layout_store_id": "113011",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.571849,
+        "lng": -58.431592,
+        "store_zone_id": "113011_132395"
+      },
+      {
+        "store_id": "113950",
+        "zone_id": "152356",
+        "layout_store_id": "113950",
+        "store_type": "restaurant",
+        "size": 8,
+        "lat": -34.581583,
+        "lng": -58.408185,
+        "store_zone_id": "113950_152356"
+      },
+      {
+        "store_id": "113178",
+        "zone_id": "145764",
+        "layout_store_id": "113177",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.598104,
+        "lng": -58.440865,
+        "store_zone_id": "113178_145764"
+      },
+      {
+        "store_id": "113185",
+        "zone_id": "145994",
+        "layout_store_id": "113185",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.587619,
+        "lng": -58.427937,
+        "store_zone_id": "113185_145994"
+      },
+      {
+        "store_id": "113187",
+        "zone_id": "140661",
+        "layout_store_id": "113187",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.588418,
+        "lng": -58.423468,
+        "store_zone_id": "113187_140661"
+      },
+      {
+        "store_id": "113195",
+        "zone_id": "161088",
+        "layout_store_id": "113195",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.588423,
+        "lng": -58.430444,
+        "store_zone_id": "113195_161088"
+      },
+      {
+        "store_id": "113218",
+        "zone_id": "141557",
+        "layout_store_id": "113218",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.575507,
+        "lng": -58.460261,
+        "store_zone_id": "113218_141557"
+      },
+      {
+        "store_id": "113192",
+        "zone_id": "137517",
+        "layout_store_id": "113192",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.595695,
+        "lng": -58.415355,
+        "store_zone_id": "113192_137517"
+      },
+      {
+        "store_id": "113194",
+        "zone_id": "136586",
+        "layout_store_id": "113194",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.600474,
+        "lng": -58.441477,
+        "store_zone_id": "113194_136586"
+      },
+      {
+        "store_id": "113228",
+        "zone_id": "142349",
+        "layout_store_id": "113228",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.57668,
+        "lng": -58.461907,
+        "store_zone_id": "113228_142349"
+      },
+      {
+        "store_id": "111936",
+        "zone_id": "141695",
+        "layout_store_id": "111936",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.596429,
+        "lng": -58.420003,
+        "store_zone_id": "111936_141695"
+      },
+      {
+        "store_id": "113255",
+        "zone_id": "134304",
+        "layout_store_id": "113255",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.596212,
+        "lng": -58.433362,
+        "store_zone_id": "113255_134304"
+      },
+      {
+        "store_id": "113208",
+        "zone_id": "137188",
+        "layout_store_id": "113208",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.584885,
+        "lng": -58.412001,
+        "store_zone_id": "113208_137188"
+      },
+      {
+        "store_id": "113258",
+        "zone_id": "143170",
+        "layout_store_id": "113258",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.583547,
+        "lng": -58.42607,
+        "store_zone_id": "113258_143170"
+      },
+      {
+        "store_id": "113310",
+        "zone_id": "138048",
+        "layout_store_id": "113310",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.559476,
+        "lng": -58.459692,
+        "store_zone_id": "113310_138048"
+      },
+      {
+        "store_id": "113458",
+        "zone_id": "141875",
+        "layout_store_id": "113434",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.569749,
+        "lng": -58.444497,
+        "store_zone_id": "113458_141875"
+      },
+      {
+        "store_id": "113411",
+        "zone_id": "148276",
+        "layout_store_id": "113410",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.562742,
+        "lng": -58.456379,
+        "store_zone_id": "113411_148276"
+      },
+      {
+        "store_id": "113684",
+        "zone_id": "150240",
+        "layout_store_id": "113634",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.595877,
+        "lng": -58.439335,
+        "store_zone_id": "113684_150240"
+      },
+      {
+        "store_id": "113654",
+        "zone_id": "149995",
+        "layout_store_id": "113654",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.596399,
+        "lng": -58.442817,
+        "store_zone_id": "113654_149995"
+      },
+      {
+        "store_id": "113659",
+        "zone_id": "154550",
+        "layout_store_id": "113659",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.588324104067,
+        "lng": -58.419616335276,
+        "store_zone_id": "113659_154550"
+      },
+      {
+        "store_id": "113683",
+        "zone_id": "154053",
+        "layout_store_id": "113683",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.557174,
+        "lng": -58.448726,
+        "store_zone_id": "113683_154053"
+      },
+      {
+        "store_id": "113765",
+        "zone_id": "150761",
+        "layout_store_id": "113765",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.580487,
+        "lng": -58.431926,
+        "store_zone_id": "113765_150761"
+      },
+      {
+        "store_id": "113792",
+        "zone_id": "162639",
+        "layout_store_id": "113792",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.5939944,
+        "lng": -58.4465979,
+        "store_zone_id": "113792_162639"
+      },
+      {
+        "store_id": "113794",
+        "zone_id": "150480",
+        "layout_store_id": "113793",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.593919,
+        "lng": -58.414072,
+        "store_zone_id": "113794_150480"
+      },
+      {
+        "store_id": "113812",
+        "zone_id": "158356",
+        "layout_store_id": "113812",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.567613,
+        "lng": -58.437317,
+        "store_zone_id": "113812_158356"
+      },
+      {
+        "store_id": "113841",
+        "zone_id": "150612",
+        "layout_store_id": "113841",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.59789355197,
+        "lng": -58.441149664724,
+        "store_zone_id": "113841_150612"
+      },
+      {
+        "store_id": "113844",
+        "zone_id": "150659",
+        "layout_store_id": "113844",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.58878,
+        "lng": -58.449914,
+        "store_zone_id": "113844_150659"
+      },
+      {
+        "store_id": "113216",
+        "zone_id": "141479",
+        "layout_store_id": "113216",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.556099,
+        "lng": -58.46225,
+        "store_zone_id": "113216_141479"
+      },
+      {
+        "store_id": "114214",
+        "zone_id": "153915",
+        "layout_store_id": "113870",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.597975,
+        "lng": -58.423555,
+        "store_zone_id": "114214_153915"
+      },
+      {
+        "store_id": "113894",
+        "zone_id": "151637",
+        "layout_store_id": "113894",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.588725,
+        "lng": -58.427925,
+        "store_zone_id": "113894_151637"
+      },
+      {
+        "store_id": "113843",
+        "zone_id": "151680",
+        "layout_store_id": "113843",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.604215,
+        "lng": -58.448535,
+        "store_zone_id": "113843_151680"
+      },
+      {
+        "store_id": "113933",
+        "zone_id": "151973",
+        "layout_store_id": "113933",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.597548,
+        "lng": -58.435252,
+        "store_zone_id": "113933_151973"
+      },
+      {
+        "store_id": "113924",
+        "zone_id": "152046",
+        "layout_store_id": "113952",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.560361,
+        "lng": -58.453967,
+        "store_zone_id": "113924_152046"
+      },
+      {
+        "store_id": "113916",
+        "zone_id": "152126",
+        "layout_store_id": "113916",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.567657,
+        "lng": -58.463604,
+        "store_zone_id": "113916_152126"
+      },
+      {
+        "store_id": "113932",
+        "zone_id": "152243",
+        "layout_store_id": "113932",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.58563,
+        "lng": -58.42581,
+        "store_zone_id": "113932_152243"
+      },
+      {
+        "store_id": "113959",
+        "zone_id": "152305",
+        "layout_store_id": "113959",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.586609,
+        "lng": -58.43332,
+        "store_zone_id": "113959_152305"
+      },
+      {
+        "store_id": "113973",
+        "zone_id": "152495",
+        "layout_store_id": "113973",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583193,
+        "lng": -58.44472,
+        "store_zone_id": "113973_152495"
+      },
+      {
+        "store_id": "113985",
+        "zone_id": "152551",
+        "layout_store_id": "113985",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.600896,
+        "lng": -58.440707,
+        "store_zone_id": "113985_152551"
+      },
+      {
+        "store_id": "113970",
+        "zone_id": "152559",
+        "layout_store_id": "113970",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.593296,
+        "lng": -58.413541,
+        "store_zone_id": "113970_152559"
+      },
+      {
+        "store_id": "114184",
+        "zone_id": "153489",
+        "layout_store_id": "114051",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.58351,
+        "lng": -58.41363,
+        "store_zone_id": "114184_153489"
+      },
+      {
+        "store_id": "114002",
+        "zone_id": "152869",
+        "layout_store_id": "114002",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.557358,
+        "lng": -58.458713,
+        "store_zone_id": "114002_152869"
+      },
+      {
+        "store_id": "114209",
+        "zone_id": "153625",
+        "layout_store_id": "114142",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.587707,
+        "lng": -58.428742,
+        "store_zone_id": "114209_153625"
+      },
+      {
+        "store_id": "111464",
+        "zone_id": "143876",
+        "layout_store_id": "111464",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.595719016244,
+        "lng": -58.432633164001,
+        "store_zone_id": "111464_143876"
+      },
+      {
+        "store_id": "114152",
+        "zone_id": "153614",
+        "layout_store_id": "114152",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.589626,
+        "lng": -58.429977,
+        "store_zone_id": "114152_153614"
+      },
+      {
+        "store_id": "114333",
+        "zone_id": "155028",
+        "layout_store_id": "114333",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.592335,
+        "lng": -58.429277,
+        "store_zone_id": "114333_155028"
+      },
+      {
+        "store_id": "114570",
+        "zone_id": "156752",
+        "layout_store_id": "114570",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.567871,
+        "lng": -58.433503,
+        "store_zone_id": "114570_156752"
+      },
+      {
+        "store_id": "190",
+        "zone_id": "130472",
+        "layout_store_id": "190",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.591296,
+        "lng": -58.430567,
+        "store_zone_id": "190_130472"
+      },
+      {
+        "store_id": "114607",
+        "zone_id": "156559",
+        "layout_store_id": "114607",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.568594,
+        "lng": -58.44694,
+        "store_zone_id": "114607_156559"
+      },
+      {
+        "store_id": "114591",
+        "zone_id": "156635",
+        "layout_store_id": "114591",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.583969,
+        "lng": -58.417907,
+        "store_zone_id": "114591_156635"
+      },
+      {
+        "store_id": "114557",
+        "zone_id": "156741",
+        "layout_store_id": "114557",
+        "store_type": "restaurant",
+        "size": 1,
+        "lat": -34.582573,
+        "lng": -58.442405,
+        "store_zone_id": "114557_156741"
+      },
+      {
+        "store_id": "114646",
+        "zone_id": "157041",
+        "layout_store_id": "114646",
+        "store_type": "restaurant",
+        "size": 8,
+        "lat": -34.588323,
+        "lng": -58.410047,
+        "store_zone_id": "114646_157041"
+      },
+      {
+        "store_id": "114639",
+        "zone_id": "157103",
+        "layout_store_id": "114639",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.584134,
+        "lng": -58.427555,
+        "store_zone_id": "114639_157103"
+      },
+      {
+        "store_id": "114736",
+        "zone_id": "157613",
+        "layout_store_id": "114736",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.597558,
+        "lng": -58.419966,
+        "store_zone_id": "114736_157613"
+      },
+      {
+        "store_id": "114727",
+        "zone_id": "157643",
+        "layout_store_id": "114727",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.583075,
+        "lng": -58.472023,
+        "store_zone_id": "114727_157643"
+      },
+      {
+        "store_id": "113693",
+        "zone_id": "150096",
+        "layout_store_id": "111248",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.596401,
+        "lng": -58.442816,
+        "store_zone_id": "113693_150096"
+      },
+      {
+        "store_id": "114684",
+        "zone_id": "158028",
+        "layout_store_id": "114684",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.59674,
+        "lng": -58.423327,
+        "store_zone_id": "114684_158028"
+      },
+      {
+        "store_id": "114779",
+        "zone_id": "158095",
+        "layout_store_id": "114779",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.584745,
+        "lng": -58.453884,
+        "store_zone_id": "114779_158095"
+      },
+      {
+        "store_id": "114790",
+        "zone_id": "158292",
+        "layout_store_id": "114790",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.591716,
+        "lng": -58.41776,
+        "store_zone_id": "114790_158292"
+      },
+      {
+        "store_id": "114869",
+        "zone_id": "158323",
+        "layout_store_id": "114869",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.595846,
+        "lng": -58.437406,
+        "store_zone_id": "114869_158323"
+      },
+      {
+        "store_id": "114650",
+        "zone_id": "156981",
+        "layout_store_id": "114650",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.594216,
+        "lng": -58.421007,
+        "store_zone_id": "114650_156981"
+      },
+      {
+        "store_id": "114941",
+        "zone_id": "158936",
+        "layout_store_id": "114937",
+        "store_type": "restaurant",
+        "size": 8,
+        "lat": -34.587861,
+        "lng": -58.410536,
+        "store_zone_id": "114941_158936"
+      },
+      {
+        "store_id": "114946",
+        "zone_id": "158989",
+        "layout_store_id": "114946",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.582583031355,
+        "lng": -58.434845519014,
+        "store_zone_id": "114946_158989"
+      },
+      {
+        "store_id": "114944",
+        "zone_id": "159002",
+        "layout_store_id": "114944",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.565312,
+        "lng": -58.43591,
+        "store_zone_id": "114944_159002"
+      },
+      {
+        "store_id": "114984",
+        "zone_id": "160093",
+        "layout_store_id": "114984",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.557436,
+        "lng": -58.461107,
+        "store_zone_id": "114984_160093"
+      },
+      {
+        "store_id": "115589",
+        "zone_id": "162243",
+        "layout_store_id": "115001",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.572399,
+        "lng": -58.446158,
+        "store_zone_id": "115589_162243"
+      },
+      {
+        "store_id": "114966",
+        "zone_id": "159305",
+        "layout_store_id": "114966",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.567607,
+        "lng": -58.437277,
+        "store_zone_id": "114966_159305"
+      },
+      {
+        "store_id": "114968",
+        "zone_id": "159301",
+        "layout_store_id": "114968",
+        "store_type": "restaurant",
+        "size": 8,
+        "lat": -34.567967313012,
+        "lng": -58.475935422702,
+        "store_zone_id": "114968_159301"
+      },
+      {
+        "store_id": "115029",
+        "zone_id": "159451",
+        "layout_store_id": "115025",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.579083,
+        "lng": -58.425772,
+        "store_zone_id": "115029_159451"
+      },
+      {
+        "store_id": "115057",
+        "zone_id": "159966",
+        "layout_store_id": "115057",
+        "store_type": "restaurant",
+        "size": 2,
+        "lat": -34.583312,
+        "lng": -58.439401,
+        "store_zone_id": "115057_159966"
+      },
+      {
+        "store_id": "368",
+        "zone_id": "149026",
+        "layout_store_id": "368",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.591254,
+        "lng": -58.439587,
+        "store_zone_id": "368_149026"
+      },
+      {
+        "store_id": "115083",
+        "zone_id": "160338",
+        "layout_store_id": "115083",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.600678,
+        "lng": -58.440806,
+        "store_zone_id": "115083_160338"
+      },
+      {
+        "store_id": "115316",
+        "zone_id": "160374",
+        "layout_store_id": "115313",
+        "store_type": "restaurant",
+        "size": 3,
+        "lat": -34.568115,
+        "lng": -58.43735,
+        "store_zone_id": "115316_160374"
+      },
+      {
+        "store_id": "115090",
+        "zone_id": "160486",
+        "layout_store_id": "115090",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.589594,
+        "lng": -58.42486,
+        "store_zone_id": "115090_160486"
+      },
+      {
+        "store_id": "115181",
+        "zone_id": "160868",
+        "layout_store_id": "115180",
+        "store_type": "restaurant",
+        "size": 5,
+        "lat": -34.564494,
+        "lng": -58.437323,
+        "store_zone_id": "115181_160868"
+      },
+      {
+        "store_id": "167",
+        "zone_id": "147124",
+        "layout_store_id": "167",
+        "store_type": "restaurant",
+        "size": 6,
+        "lat": -34.594072,
+        "lng": -58.41943,
+        "store_zone_id": "167_147124"
+      },
+      {
+        "store_id": "111112",
+        "zone_id": "131322",
+        "layout_store_id": "111112",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.600631,
+        "lng": -58.441616,
+        "store_zone_id": "111112_131322"
+      },
+      {
+        "store_id": "115382",
+        "zone_id": "162304",
+        "layout_store_id": "115382",
+        "store_type": "restaurant",
+        "size": 7,
+        "lat": -34.557554,
+        "lng": -58.45641,
+        "store_zone_id": "115382_162304"
+      },
+      {
+        "store_id": "115554",
+        "zone_id": "161627",
+        "layout_store_id": "115554",
+        "store_type": "restaurant",
+        "size": 4,
+        "lat": -34.567841,
+        "lng": -58.433527,
+        "store_zone_id": "115554_161627"
+      }
+    ],
+    "db": {
+
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_stores",
+    "suboptions": [
+
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": null,
+    "pinned_index": null,
+    "background_color": "#ff8356",
+    "group": "Restaurantes",
+    "sub_group": "Restaurantes",
+    "widget_description": "Tus restaurantes preferidos, en tiempo récord",
+    "order_index": 2
+  },
+  {
+    "name": "Mensajería",
+    "description": "Mensajería",
+    "store_type": "courier_hours",
+    "image": "courier_hours-1546892936.png",
+    "scheduled": false,
+    "index": 2,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+      {
+        "store_id": "111154",
+        "zone_id": "158452",
+        "layout_store_id": "111154",
+        "store_type": "courier_hours",
+        "size": 1,
+        "lat": -34.589697,
+        "lng": -58.43979,
+        "store_zone_id": "111154_158452"
+      }
+    ],
+    "db": {
+      "download_type": "sqlite",
+      "store_type": "courier_hours",
+      "url": "databases/2/111154/0-2.7z"
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_linears",
+    "suboptions": [
+
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": null,
+    "pinned_index": 2,
+    "background_color": "#fad4bf",
+    "group": "Rappifavor",
+    "sub_group": "Rappifavor",
+    "widget_description": "Llevamos y traemos lo que necesites",
+    "order_index": 2
+  },
+  {
+    "name": "Kiosco",
+    "description": "Kiosco",
+    "store_type": "express_group",
+    "image": "express_new_3.png",
+    "scheduled": false,
+    "index": 3,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+
+    ],
+    "db": {
+
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_stores",
+    "suboptions": [
+      {
+        "name": "Open 25",
+        "description": "Open 25",
+        "store_type": "open25",
+        "image": "open25-1544044516.png",
+        "scheduled": false,
+        "index": 2,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "113578",
+            "zone_id": "162014",
+            "layout_store_id": "113578",
+            "store_type": "open25",
+            "size": 1,
+            "lat": -34.5708415,
+            "lng": -58.4429572,
+            "store_zone_id": "113578_162014"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "open25",
+          "url": "databases/2/113578/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "open25-1547155892.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Express",
+        "widget_description": "Tu kiosco de siempre ahora en Rappi",
+        "order_index": 2
+      },
+      {
+        "name": "Jevi",
+        "description": "Jevi",
+        "store_type": "jevi",
+        "image": "jevi-1549896573.png",
+        "scheduled": false,
+        "index": 3,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "319",
+            "zone_id": "162102",
+            "layout_store_id": "319",
+            "store_type": "jevi",
+            "size": 1,
+            "lat": -34.5778694,
+            "lng": -58.4296889,
+            "store_zone_id": "319_162102"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "jevi",
+          "url": "databases/2/319/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "Express1.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Express",
+        "widget_description": "Tus antojos favoritos y recibilo en minutos!",
+        "order_index": 3
+      }
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": null,
+    "pinned_index": 3,
+    "background_color": "#b0d4e4",
+    "group": "",
+    "sub_group": "",
+    "widget_description": "Lo que quieras del kiosco, en minutos",
+    "order_index": 3
+  },
+  {
+    "name": "Bebidas",
+    "description": "Bebidas",
+    "store_type": "bebidas",
+    "image": "bebidas-1545597999.png",
+    "scheduled": false,
+    "index": 7,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+
+    ],
+    "db": {
+
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_stores",
+    "suboptions": [
+      {
+        "name": "Fullescabio",
+        "description": "Fullescabio",
+        "store_type": "fullescabio",
+        "image": "fullescabio-1539380239.png",
+        "scheduled": false,
+        "index": 5,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112104",
+            "zone_id": "161920",
+            "layout_store_id": "112104",
+            "store_type": "fullescabio",
+            "size": 3,
+            "lat": -34.606389,
+            "lng": -58.419371,
+            "store_zone_id": "112104_161920"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "fullescabio",
+          "url": "databases/2/112104/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "Karavelle_bg.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": null,
+        "group": "CPGs",
+        "sub_group": "Licores",
+        "widget_description": "Todas las bebidas que necesitas",
+        "order_index": 5
+      },
+      {
+        "name": "Oslo Bebidas",
+        "description": "Oslo Bebidas",
+        "store_type": "especial_oslo",
+        "image": "especial_oslo-1540313341.png",
+        "scheduled": false,
+        "index": 5,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112926",
+            "zone_id": "89024",
+            "layout_store_id": "112925",
+            "store_type": "especial_oslo",
+            "size": 3,
+            "lat": -34.5728167,
+            "lng": -58.4323433,
+            "store_zone_id": "112926_89024"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "especial_oslo",
+          "url": "databases/2/112926/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "especial_oslo-1540313342.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": null,
+        "group": "CPGs",
+        "sub_group": "Licores",
+        "widget_description": "",
+        "order_index": 5
+      },
+      {
+        "name": "Aldos",
+        "description": "Aldos",
+        "store_type": "aldos",
+        "image": "aldos-1540577153.png",
+        "scheduled": false,
+        "index": 11,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112988",
+            "zone_id": "105234",
+            "layout_store_id": "112988",
+            "store_type": "aldos",
+            "size": 1,
+            "lat": -34.580474,
+            "lng": -58.413313,
+            "store_zone_id": "112988_105234"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "aldos",
+          "url": "databases/2/112988/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "aldos-1541623918.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": null,
+        "group": "CPGs",
+        "sub_group": "Licores",
+        "widget_description": "Los mejores vinos",
+        "order_index": 11
+      }
+    ],
+    "banner_image": "Licores1.png",
+    "sub_title": null,
+    "pinned_index": 7,
+    "background_color": "#f4e48a",
+    "group": "CPGs",
+    "sub_group": "Licores",
+    "widget_description": "Tus bebidas y el hielo, en menos de 35 minutos",
+    "order_index": 7
+  },
+  {
+    "name": "Farmacity",
+    "description": "Farmacity",
+    "store_type": "farma_big",
+    "image": "farma_big-1540236068.png",
+    "scheduled": false,
+    "index": 8,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+
+    ],
+    "db": {
+
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_stores",
+    "suboptions": [
+      {
+        "name": "Farmacity",
+        "description": "Farmacity",
+        "store_type": "farma_city",
+        "image": "farma_city-1539306372.png",
+        "scheduled": false,
+        "index": 1,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112791",
+            "zone_id": "88800",
+            "layout_store_id": "112791",
+            "store_type": "farma_city",
+            "size": 3,
+            "lat": -34.569929,
+            "lng": -58.445589,
+            "store_zone_id": "112791_88800"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "farma_city",
+          "url": "databases/2/112791/0-2.7z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "farma_city-1547131236.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#ffffff",
+        "group": "CPGs",
+        "sub_group": "Farmacia",
+        "widget_description": "Cuidamos de vos",
+        "order_index": 1
+      }
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": null,
+    "pinned_index": 8,
+    "background_color": "#ffffff",
+    "group": "",
+    "sub_group": "",
+    "widget_description": "Lo que necesites, te lo llevamos en minutos",
+    "order_index": 8
+  },
+  {
+    "name": "Cigarrillos",
+    "description": "Cigarrillos",
+    "store_type": "cigarrillos",
+    "image": "cigarrillos.png",
+    "scheduled": false,
+    "index": 12,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+      {
+        "store_id": "305",
+        "zone_id": "89000",
+        "layout_store_id": "303",
+        "store_type": "cigarrillos",
+        "size": 3,
+        "lat": -34.577865,
+        "lng": -58.4296889,
+        "store_zone_id": "305_89000"
+      }
+    ],
+    "db": {
+      "download_type": "sqlite",
+      "store_type": "cigarrillos",
+      "url": "databases/2/305/0-2.7z"
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_products",
+    "suboptions": [
+
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": null,
+    "pinned_index": 12,
+    "background_color": "#d7dbfa",
+    "group": "CPGs",
+    "sub_group": "Express",
+    "widget_description": "¿Te quedaste sin? Te los llevamos en minutos",
+    "order_index": 12
+  },
+  {
+    "name": "Mascotas",
+    "description": "Mascotas",
+    "store_type": "pets",
+    "image": "mascotas_new.png",
+    "scheduled": true,
+    "index": 13,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+
+    ],
+    "db": {
+
+    },
+    "is_hidden": false,
+    "hidden_information": null,
+    "parent": true,
+    "home_type": "by_categories",
+    "suboptions": [
+      {
+        "name": "Puppis",
+        "description": "Puppis",
+        "store_type": "puppis",
+        "image": "market_place_puppis.png",
+        "scheduled": true,
+        "index": 4,
+        "shows_button": true,
+        "validate_access": false,
+        "stores": [
+          {
+            "store_id": "112998",
+            "zone_id": "90294",
+            "layout_store_id": "112998",
+            "store_type": "puppis",
+            "size": 1,
+            "lat": -34.5726644,
+            "lng": -58.4589632,
+            "store_zone_id": "112998_90294"
+          }
+        ],
+        "db": {
+          "download_type": "sqlite",
+          "store_type": "puppis",
+          "url": "databases/mixed/112998/112998-0-null.db.7Z"
+        },
+        "is_hidden": false,
+        "hidden_information": null,
+        "parent": false,
+        "home_type": "by_products",
+        "suboptions": [
+
+        ],
+        "banner_image": "header_puppis.png",
+        "sub_title": null,
+        "pinned_index": null,
+        "background_color": "#e5dab0",
+        "group": "CPGs",
+        "sub_group": "Super",
+        "widget_description": "Todo para tu mascota",
+        "order_index": 4
+      }
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": null,
+    "pinned_index": 13,
+    "background_color": "#ffcb95",
+    "group": "",
+    "sub_group": "",
+    "widget_description": "Cuidamos y consentimos a tu mascota",
+    "order_index": 13
+  },
+  {
+    "name": "Hoteles",
+    "description": "Hoteles",
+    "store_type": "booking_hotels",
+    "image": "viajes_fumero.png",
+    "scheduled": false,
+    "index": 20,
+    "shows_button": true,
+    "validate_access": false,
+    "stores": [
+      {
+        "store_id": "111155",
+        "zone_id": "117374",
+        "layout_store_id": "111155",
+        "store_type": "booking_hotels",
+        "size": 1,
+        "lat": -34.588188,
+        "lng": -58.427297,
+        "store_zone_id": "111155_117374"
+      }
+    ],
+    "db": {
+      "download_type": "sqlite",
+      "store_type": "booking_hotels",
+      "url": "databases/2/111155/0-2.7z"
+    },
+    "is_hidden": false,
+    "hidden_information": "https://sp.booking.com/index.es-ar.html?aid=1453245;label=Rappi-appar",
+    "parent": true,
+    "home_type": "web_view",
+    "suboptions": [
+
+    ],
+    "banner_image": "generica.jpg",
+    "sub_title": "Hoteles",
+    "pinned_index": null,
+    "background_color": null,
+    "group": "Marcas",
+    "sub_group": "Marcas",
+    "widget_description": "",
+    "order_index": 20
+  }
+]
